@@ -1,0 +1,8 @@
+torchvision
+torchaudio
+transformers
+scikit-learn
+sentencepiece
+tqdm
+gradio
+torch
